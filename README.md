@@ -28,17 +28,17 @@ iOS
 
 懒人全程用日本节点即可，洛杉矶节点不用导入。
 
-通用    >>点击导入 [日本节点](http://shadowrocket://add/vmess://YXV0bzo3NzVkNTNkMS0xMDdkLTRkNDctODFlMy1kM2U1YzIxM2UyMjVAYzZzNC5qYW1qYW1zLm5ldDo3Mjcx?remarks=%E6%97%A5%E6%9C%AC%E8%8A%82%E7%82%B9%20Instagram/Twitter/Google&path=/&obfs=none&alterId=8)
+通用    >><a href="shadowrocket://add/vmess://YXV0bzo3NzVkNTNkMS0xMDdkLTRkNDctODFlMy1kM2U1YzIxM2UyMjVAYzZzNC5qYW1qYW1zLm5ldDo3Mjcx?remarks=%E6%97%A5%E6%9C%AC%E8%8A%82%E7%82%B9%20Instagram/Twitter/Google&path=/&obfs=none&alterId=8">点击导入 日本节点</a>
 
-电信    >>点击导入 [电信-洛杉矶节点](http://shadowrocket://add/vmess://YXV0bzo3NzVkNTNkMS0xMDdkLTRkNDctODFlMy1kM2U1YzIxM2UyMjVAYzZzMy5qYW1qYW1zLm5ldDo3Mjcx?remarks=%E7%94%B5%E4%BF%A1-%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%8A%82%E7%82%B9%20Youtube/Netflix/Hulu&path=/&obfs=none&alterId=8)
+电信    >><a href="shadowrocket://add/vmess://YXV0bzo3NzVkNTNkMS0xMDdkLTRkNDctODFlMy1kM2U1YzIxM2UyMjVAYzZzMy5qYW1qYW1zLm5ldDo3Mjcx?remarks=%E7%94%B5%E4%BF%A1-%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%8A%82%E7%82%B9%20Youtube/Netflix/Hulu&path=/&obfs=none&alterId=8">点击导入 电信-洛杉矶节点</a>
 
-移动    >>点击导入 [移动-洛杉矶节点](http://shadowrocket://add/ss://YWVzLTI1Ni1nY206U2d4QWFFTXNUOEtmRGJGaEBjNnMyLmphbWphbXMubmV0OjcyNzE#%E7%A7%BB%E5%8A%A8-%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%8A%82%E7%82%B9%20Youtube/Netflix/Hulu)
+移动    >><a href="shadowrocket://add/ss://YWVzLTI1Ni1nY206U2d4QWFFTXNUOEtmRGJGaEBjNnMyLmphbWphbXMubmV0OjcyNzE#%E7%A7%BB%E5%8A%A8-%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%8A%82%E7%82%B9%20Youtube/Netflix/Hulu">点击导入 移动-洛杉矶节点</a>
 
-联通    >>点击导入 [联通-洛杉矶节点](http://shadowrocket://add/ss://YWVzLTI1Ni1nY206U2d4QWFFTXNUOEtmRGJGaEBjNnMxLmphbWphbXMubmV0OjcyNzE#%E8%81%94%E9%80%9A-%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%8A%82%E7%82%B9%20Youtube/Netflix/Hulu)
+联通    >><a href="shadowrocket://add/ss://YWVzLTI1Ni1nY206U2d4QWFFTXNUOEtmRGJGaEBjNnMxLmphbWphbXMubmV0OjcyNzE#%E8%81%94%E9%80%9A-%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%8A%82%E7%82%B9%20Youtube/Netflix/Hulu">点击导入 联通-洛杉矶节点</a>
 
 7.导入配置
 
-<a href="http://shadowrocket://config/add/https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_banlist_ad.conf">点击导入配置</a>
+<a href="shadowrocket://config/add/https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_banlist_ad.conf">点击导入配置</a>
 
 8.打开Shadowrocket，把 首页 的 全局路由 设置为 配置
 
