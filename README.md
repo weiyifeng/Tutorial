@@ -39,6 +39,7 @@ iOS
 7.导入配置
 
 <a href="shadowrocket://config/add/https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_banlist_ad.conf">点击导入配置</a>
+[asdf](shadowrocket://config/add/https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_banlist_ad.conf)
 
 8.打开Shadowrocket，把 首页 的 全局路由 设置为 配置
 
